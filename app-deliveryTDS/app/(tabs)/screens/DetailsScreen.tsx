@@ -1,4 +1,4 @@
-// screens/DetailsScreen.tsx
+
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
