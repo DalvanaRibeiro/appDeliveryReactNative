@@ -1,4 +1,4 @@
-// navigation/StackNavigator.tsx
+
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import DetailsScreen from './DetailsScreen';
 import HomeScreen from './HomeScreen';
