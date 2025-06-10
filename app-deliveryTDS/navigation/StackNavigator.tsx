@@ -1,10 +1,10 @@
-// navigation/StackNavigator.tsx
+
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import React from 'react';
 import DetailsScreen from '../app/(tabs)/screens/DetailsScreen';
 import HomeScreen from '../app/(tabs)/screens/HomeScreen';
 
-// 👇 ISTO DEVE EXISTIR E SER EXPORTADO ASSIM:
+
 export type RootStackParamList = {
   Home: undefined;
   Details: { message: string };
